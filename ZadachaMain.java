@@ -8,7 +8,7 @@ public class Zadacha1Main {
         long e = 1234567789;
         double f = 123.456;
         char g = 'e';
-        boolean h = true;
+        boolean h = true;//xcs
         System.out.println(calculate(-3, 5, 7, 8));
         System.out.println(task10and20(12, 34));
         isPositiveOrNegative(-35);
